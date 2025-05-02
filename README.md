@@ -1,1 +1,3 @@
 # merge-test
+
+Some changes.
